@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oluwaferanmi Badmus
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning R programming language to add to my stack of Excel, PowerBi, Tableau and SQL
-- 💞️ I’m looking to collaborate on data analysis projects and also join teams and organizations to uncover hidden trends and insights in messy datasets
+- 👀 I am a Data Analyst
+- 🌱 Currently learning and transitioning into data science
+- 💞️ I’m looking to collaborate on data science projects and also join teams and organizations to uncover hidden trends and insights in messy datasets
 - 📫 How to reach me? I'm available on Linkedin: linkedin.com/in/ranmibadmus
 
 <!---
